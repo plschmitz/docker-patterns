@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+.vagrant*
+.DS_Store
+docs/_build
+docs/_static
+docs/_templates
+bundles/
+.git/
+
